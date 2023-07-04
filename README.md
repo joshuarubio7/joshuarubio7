@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @joshuarubio7
+- 👋 Hi, I’m Joshua Rubio
 - 👀 I’m interested in data analytics and technology.
 - 🌱 I’m currently pursuing the Google Data Analytics Certificate on Coursera towards a career in analytics.
 - 💞️ I’m looking to collaborate on learning opportunities, networking, and job & career growth opportunities.
